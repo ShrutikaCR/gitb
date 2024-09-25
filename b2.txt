@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 learning git branch
 
 merge message test
+=======
+learning git branch with custom commit message
+
+>>>>>>> master
