@@ -6,3 +6,4 @@ merge message test
 learning git branch with custom commit message
 
 >>>>>>> master
+adding custom commit message
